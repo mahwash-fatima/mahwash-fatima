@@ -40,7 +40,7 @@ Here are some technologies I use and enjoy working with:
 
 I’m open to collaborating on interesting projects, learning together, and contributing to open source.
 
-- 🔗 **Linkedin**: https://www.linkedin.com/mahwash-fatima-41754337a
+- 🔗 **Linkedin**: https://www.linkedin.com/in/mahwash-fatima-41754337a
 
 Thanks for stopping by! 😊  
 **Keep learning and keep building! 🚀**
